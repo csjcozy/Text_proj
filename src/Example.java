@@ -6,6 +6,6 @@ public class Example {
         String num=sc.next();
         int n=sc.nextInt();
         System.out.println(num.charAt(n-1));
-
+        //추가했습니다 업데이트 확인
     }
 }
